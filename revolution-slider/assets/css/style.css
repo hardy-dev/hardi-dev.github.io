@@ -3,3 +3,41 @@
   max-width: 100%;
   overflow: hidden;
 }
+/* .button {
+  background-color: white;
+  border: none;
+  color: white;
+  padding: 0px 0px;
+  align-items: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 16px;
+  border-color:  #ddd;
+} */
+.button {
+  border-color:  #ddd;
+  background-color: white;
+  display: inline-block;
+  height: 43px;
+  width: 3rem;
+  padding: 0;
+  margin-top: 0;
+  vertical-align: center;
+  border-radius: 16px;
+  border-block-start-width: 1px;
+}
+.fas {
+  padding: 9px 8px;
+  font-size: 24px;
+  width: 37px;
+  height: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 2px 2px;
+  border-radius: 10px;
+}
+.fa-graduation-cap {
+  background: #3B5998;
+  color: white;
+}
