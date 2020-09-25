@@ -30,15 +30,15 @@
 .btnheader{
   padding: 0;
   margin-top: 0;
-  vertical-align: center;
+  vertical-align: left;
   border-block-start-width: 1px;
-  position: static;
-  padding-top: 50px;
-  padding-left: 15px;  
+  position: absolute;
+  padding-left: 30px;
+  padding-top: 30px;
 }
 .fas {
   padding: 9px 8px;
-  font-size: 20px;
+  font-size: 15px;
   text-align: center;
   text-decoration: none;
   margin: 2px 2px;
